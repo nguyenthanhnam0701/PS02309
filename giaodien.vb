@@ -1,6 +1,6 @@
 ﻿Public Class giaodien
 
-   
+   "Nguyen Thanh Nam"
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         khachhang.Show()
     End Sub
